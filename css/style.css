@@ -1,0 +1,72 @@
+* {
+    font-family: 'Pangolin', cursive;
+    box-sizing: border-box;
+    margin: 10px 0px;
+}
+
+.content{
+    width: 100vw;    
+}
+
+.description{
+    width: 50%;
+    height: 100%;
+    padding: 50px;
+    display: block;
+    float: left;
+}
+
+.exercise{
+    width: 50%;
+    height: 100%;
+    padding: 50px;
+    display: block;
+    float: right;
+}
+
+.exercise script{
+    display: none;
+}
+
+h1{
+    color: darkred
+}
+
+h3{
+    padding-left: 20px;
+    font-size: 19px;
+}
+
+hr{
+    width: 50%;    
+    margin: 0;
+    display: block;    
+}
+
+p{
+    font-size: 22px;
+    padding: 5px 0;        
+}
+
+.down{
+    vertical-align: sub;
+    font-size: 0.8em
+}
+
+.wzor{
+    margin-left: 50px;
+    color:crimson;
+}
+
+.wynik{
+    color: darkred
+}
+
+button{
+    background-color: darkred;
+    border: 0;
+    color: white;
+    border-radius: 5px;
+    width: 130px;
+    height: 30px
+}
